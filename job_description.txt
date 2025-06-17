@@ -1,0 +1,50 @@
+About the job
+Automation Engineer – Utilities
+
+Location: Indiana, USA (Relocation support available)
+
+Industry: Pharmaceutical / Biotechnology
+
+Full-time | On-site | Long-term opportunity
+
+About the Opportunity
+
+A global pharmaceutical company is expanding its U.S. operations and is investing in new high-capacity manufacturing infrastructure to support its pipeline of medicines. As part of this growth, we’re hiring an Automation Engineer – Utilities to join a cross-functional engineering team focused on automation system design, integration, and long-term support for plant and clean utility systems.
+This position offers the chance to work on a large-scale, highly regulated manufacturing project from early phases through to operations, with clear long-term potential for growth.
+
+
+Key Responsibilities
+
+Design and implement automation systems for utility equipment such as chillers, HVAC, air compressors, solvent recovery, purified water generation, and wastewater treatment
+Support integration with DCS/SCADA platforms (e.g., DeltaV, Rockwell, OSI PI)
+Lead troubleshooting of system alarms, instrumentation failures, and event investigations
+Support automated monitoring, data capture, and reporting for utility performance
+Collaborate with engineering, facilities, and automation stakeholders during project execution and ongoing operations
+Contribute to the development of GMP documentation (SOPs, protocols, change controls)
+Participate in vendor coordination, system FAT/SAT, and commissioning
+
+
+Your Profile
+
+Bachelor’s degree in engineering (mechanical, electrical, chemical, or similar)
+Minimum 5 years of experience in automation or process control
+Experience working with DeltaV, Rockwell, or other automation systems in a manufacturing setting
+Prior involvement with clean or plant utility systems:
+Purified water / WFI
+HVAC / chillers / BMS
+Wastewater treatment
+Solvent recovery or cryogenic systems
+Understanding of GMP / cGMP standards and FDA-regulated manufacturing
+Strong communication and cross-functional collaboration skills
+
+
+What’s Offered
+
+Competitive salary and bonus structure
+Full relocation support (if required)
+Health, dental, vision, life insurance, and 401(k) / pension
+Opportunity to work on a high-impact manufacturing project from design through operations
+Long-term development and advancement with a global healthcare leader
+
+
+Interested? Submit your CV or reach out to learn more in confidence.

@@ -1,0 +1,65 @@
+Marzie Sadeqi
+West Bloomfield, MI | marziesad@outlook.com | (248) 648-0960 | LinkedIn: linkedin.com/in/marzie-sadeqi-16b825260
+Professional Summary
+Multidisciplinary technology professional with hands-on experience in robotics, automation, data analytics, and cloud infrastructure. Skilled in building intelligent systems, securing IT operations, and visualizing insights using Python, ROS, Tableau, and AWS.
+Education
+-	MSc in Robotics – Industrial Automation, Wayne State University, MI (Expected Dec 2025) | GPA: 4.0
+-	MSc in Data Analytics, Eastern University, PA (Expected Aug 2025) | GPA: 3.78
+-	College Associate Degree in Computer Networking, St. Clair College, ON (Apr 2024) | GPA: 3.8
+-	BSc in Applied Chemistry, Islamic Azad University, Tehran, Iran (Jul 2021) | GPA: 3.8
+Technical Skills
+-	Programming: Python, R, Java, JavaScript, C, C++, C#, SQL, MATLAB, PLC
+-	Data Tools: Tableau, Power BI, PostgreSQL, Excel, R
+-	Cloud & IT: AWS, Azure, Microsoft 365, GitHub
+-	Networking & Security: Asset Management, Backup and recovery, Network Security, IT administration 
+-	Automation & Simulation: ROS, PLC (Allen-Bradley, Siemens), AutoCAD, FlexSim, Fanuc Robots
+
+Projects
+-	Fanuc Robot Performance Dashboard in Tableau: Designed a real-time performance monitoring dashboard for a Fanuc industrial robot using Tableau. Tracked operational metrics such as cycle time, error rates, and downtime, integrated data from CSV logs for actionable visualization. 
+-	AWS Cloud Infrastructure Deployment: Designed and deployed a scalable, cost-efficient cloud environment on AWS using EC2, S3, and RDS. Set up secure IAM roles, monitored system usage with CloudWatch, and performed data backups and storage automation using lifecycle policies.
+-	Siemens S7-1200 Tank Control Project: Designed and implemented an automated tank level monitoring system using Siemens TIA Portal and S7-1200 PLC; utilized analog inputs for level sensing and configured alarms, valve control, and HMI integration.
+-	Allen-Bradley MicroLogix Conveyor System: Developed a PLC-based conveyor automation project using Allen-Bradley MicroLogix; programmed logic for sensor-based item detection, timed motor control, and safety interlocks.
+-	e. Do Robot Automation Project: Programmed a 6-axis industrial robot for pick-and-place and motion tasks using Python and ROS; collaborated with faculty to troubleshoot real-time execution issues and optimize cycle times.
+-	Multinomial Logistic Regression (R): Built a credit grade prediction model using multinom() and real-world financial data. Applied factor conversion, prediction probabilities, and evaluated model accuracy.
+-	Exploratory Data Analysis with R: Conducted EDA on fastfood and Formula 1 datasets. Used tidyverse and ggplot2 to clean, summarize, and visualize distributions, outliers, and trends.
+-	Correlation & Regression Modeling: Analyzed relationships between multiple variables using Pearson/Spearman correlations and VIF in R. Applied linear and multiple regression models to real datasets.
+-	Data Cleaning & Visualization with Python: Cleaned and transformed Airbnb and salary data using Pandas. Created summary stats and visual insights using matplotlib and seaborn.
+-	PostgreSQL Relational Database Project: Designed and implemented a normalized relational database in PostgreSQL for academic data tracking. Created complex queries using JOINs, subqueries, and aggregate functions to generate insights from structured datasets and support dashboard integration.
+
+
+
+Professional Experience
+Student Assistant
+Wayne State University – Detroit, MI | Jan 2025 – Present
+-	Provide technical and administrative support to the Engineering Technology Department
+-	Assist faculty with lab-based automation and robotics research
+-	Serve as Teaching Assistant in Microcontrollers Lab, supporting students with C programming projects
+-	Program and operate the e.Do 6-axis robot using Python and ROS for academic projects
+-	Simulate manufacturing processes using FlexSim software and generate dashboards for statistical analysis and visualization
+-	Support students with troubleshooting software, hardware, and networking issues
+-	Maintain equipment, perform data entry, and contribute to technical documentation
+Information Technology Analyst (Co-op)
+St. Clair College – Windsor, ON | Jan 2024 – Apr 2024
+-	Managed IT systems, virtual machines, and backups using Azure and AWS
+-	Built scalable Cisco-based networks; resolved Tier 1–2 technical issues
+-	Supported cloud storage and disaster recovery planning
+Computer Science Tutor
+St. Clair College – Windsor, ON | May 2023 – Apr 2024
+-	Tutored students in database design, machine learning, and Tableau dashboards
+-	Resolved lab-related technical issues and conducted review sessions
+Robotics Instructor
+Genio-Tech Company – Windsor, ON | May 2023 – Mar 2024
+-	Taught robotics using Java, Python, ROS, and sensor integration, AI and Machine Vision
+Network and Security Administrator
+Arian Computer – Tehran, Iran | Jan 2019 – Nov 2022
+-	Managed firewalls, VPNs, and performed threat detection via log analysis
+-	Created Power BI dashboards to monitor network performance
+Chemical Lab Data Scientist
+Azad University – Tehran, Iran | Jan 2018 – Apr 2021
+-	Analyzed chemical datasets using Python, R, MATLAB; built databases with PostgreSQL
+-	Designed Tableau dashboards to communicate research insights
+Certifications
+-	Large Language model and Machine Learning bootcamp certified 
+-	AWS Cloud Practitioner certification
+-	CompTIA A+ Core 1
+-	Allen Bradly MicroLogix bootcamp certified
